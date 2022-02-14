@@ -1,1 +1,1 @@
-# Guess-number
+# Guess number game with JavaScript
